@@ -21,6 +21,9 @@ KEY QUESTION EXPLORED -
 9. What is the average quantity of items sold per transaction or over a period?
 10. What is the overall sales, quantity, and profit for the Super Store?
 
+### TECHNOLOGY USED -
+1. Microsoft Power BI
+
 ### INSIGHT / RESULT -
 1. Analysis of sales by region clearly establishes the West region as the dominant market, leading significantly with approximately 522.44K customers and capturing the largest share of sales at 33.37%. Following the West, the East region demonstrates strong performance, serving around 450.23K customers and accounting for 28.75% of total sales. The Central region ranks next, followed by the South region, indicating a clear hierarchy in regional contribution to the Super Store's overall revenue. This insight highlights the geographical strengths and areas where strategic focus could yield further growth.
 2. A significant majority of customers at the Super Store overwhelmingly prefer Cash on Delivery (COD), accounting for approximately 42.62% of all transactions. Online payments represent the second most favored method, utilized by 35.38% of customers, while card payments are the least preferred option at 21.99%. This trend underscores the importance of offering flexible payment solutions, particularly COD, to align with customer convenience and potentially optimize conversion rates.
